@@ -1,2 +1,2 @@
-# SafetBeg
-Painter/photographer portfolio
+# safetbegic
+Site: https://safetbeg.com
