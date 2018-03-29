@@ -116,7 +116,7 @@ nav.mastnav{}
 .works-list-wrap a:hover .works-list img{opacity:1;}
 .works-container{overflow:hidden;}
 .works-item{margin:0;padding:0;width:33.33%;}
-.works-item a{opacity:0;display:block;width:100%;height:100%;padding:10px;position:absolute;top:0;z-index:100;text-align:center;-webkit-transition:all .4s ease-in-out;-moz-transition:all .4s ease-in-out;-ms-transition:all .4s ease-in-out;-o-transition:all .4s ease-in-out;transition:all .4s ease-in-out;}
+.works-item a{display:block;width:100%;height:100%;padding:10px;position:absolute;top:0;z-index:100;text-align:center;-webkit-transition:all .4s ease-in-out;-moz-transition:all .4s ease-in-out;-ms-transition:all .4s ease-in-out;-o-transition:all .4s ease-in-out;transition:all .4s ease-in-out;}
 .works-item a:hover{opacity:1;-webkit-transition:all .4s ease-in-out;-moz-transition:all .4s ease-in-out;-ms-transition:all .4s ease-in-out;-o-transition:all .4s ease-in-out;transition:all .4s ease-in-out;}
 .info a:hover{cursor:url("../images/plus.png") 40 40, crosshair;-webkit-transition:all .4s ease-in-out;-moz-transition:all .4s ease-in-out;-ms-transition:all .4s ease-in-out;-o-transition:all .4s ease-in-out;transition:all .4s ease-in-out;}
 .zoom a:hover{cursor:url("../images/zoom.png") 40 40, crosshair;-webkit-transition:all .4s ease-in-out;-moz-transition:all .4s ease-in-out;-ms-transition:all .4s ease-in-out;-o-transition:all .4s ease-in-out;transition:all .4s ease-in-out;}
