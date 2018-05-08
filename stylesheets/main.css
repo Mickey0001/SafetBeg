@@ -1,5 +1,5 @@
 html, body{overflow-x:hidden;}
-p{font-size:13px;line-height:26px;margin-bottom:0;}
+p{font-size:13px;line-height:20px;margin-bottom:0;}
 h1,h2,h3,h4,h5,h6{margin-top:0;margin-bottom:0;}
 a{text-decoration:none !important;}
 a:focus{outline:none;}
@@ -236,6 +236,7 @@ a.scroll-down-slide{position:absolute;bottom:80px;width:80px;height:80px;margin-
 .pad{padding-left:20px;padding-right:20px;}
 .pad-common{padding:100px;}
 .remove-top{margin-top:0;}
+.padding{padding-top: 10px; padding-bottom: 20px;}
 .remove-bottom{margin-bottom:0;}
 .remove-bottom{margin-bottom:0;}
 .remove-pad-top{padding-top:0;}
