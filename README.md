@@ -1,2 +1,2 @@
 # safetbegic
-Site: https://safetbeg.com
+[Website](https://safetbeg.com)
