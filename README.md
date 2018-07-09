@@ -1,2 +1,2 @@
-# Safet Begic - Artist Protfolio
-[SafetBeg Website](https://safetbeg.com)
+# Safet Beg - Artist Protfolio
+[Visit Website](https://safetbeg.com)
